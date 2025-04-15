@@ -1,0 +1,2 @@
+O jogo e divido em classes onde há uma classe para a entidade, o personagem, o inimigo e o tiro.
+O personagem extende a classe entidade, a classe inimigo tambem extende da classe entidade, o tiro e uma extensão da classe personagem ja que so o personagem principal pode atirar.
